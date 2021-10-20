@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.6rem;
+  /* background-color:  8f57fd*/
+  background-color: black;
+}
+
+.imagen {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+table thead {
+  background-color: #8f57fd;
+}
+.letra {
+  color: #fff;
+}
+#image img {
+  height: 12rem;
+  width: 12rem;
+}
